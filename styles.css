@@ -1,0 +1,79 @@
+body{
+  background-color: #93329E;
+  background-image: url(images.jpg);
+}
+h1{
+  color:indigo;
+  font-family: cursive;
+  padding: 20px;
+  margin: 100px auto;
+  box-shadow: 0px 0px 10px 2px #93329E;
+
+}
+h2{
+  background-image: url(https://nmap.org/images/nmap-logo-256x256.png);
+  color: darkgrey;
+  width: 220px;
+  height: 210px;
+  font-family: cursive;
+  padding: 20px;
+  margin: 100px auto;
+  box-shadow: 0px 0px 10px 2px #93329E;
+}
+p{
+  background-color: images.jpg;
+  color:darkgreen;
+  font-size: 40px;
+  font-variant: small-caps;
+  font-style: oblique;
+  font-weight: bolder;
+  padding:0.000001%;
+  margin: auto;
+}
+h3{
+  background-color: images.jpg;
+  background-image: url(https://pbs.twimg.com/profile_images/1301882562323927042/gc1CWg37_400x400.jpg);
+  color: darkgrey;
+  width: 350px;
+  height: 350px;
+  font-family: cursive;
+  padding: 20px;
+  margin: 100px auto;
+  box-shadow: 0px 0px 10px 2px #93329E;
+}
+h4{
+  background-color: images.jpg;
+  background-image: url(https://www.wireshark.org/assets/images/sflogo.png);
+  color: darkgrey;
+  width: 350px;
+  height: 350px;
+  font-family: cursive;
+  padding: 20px;
+  margin: 100px auto;
+  box-shadow: 0px 0px 10px 2px #93329E;
+}
+h5{
+  background-color: images.jpg;
+  background-image: url(https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg);
+  color: darkgrey;
+  width: 450px;
+  height: 450px;
+  font-family: cursive;
+  padding: 20px;
+  margin: 100px auto;
+  box-shadow: 0px 0px 10px 2px #93329E;
+}
+h6{
+  background-color: images.jpg;
+  background-image: url(https://www.kali.org/tools/set/images/set-logo.svg);
+  color: darkgrey;
+  width: 480px;
+  height: 450px;
+  font-family: cursive;
+  padding: 20px;
+  margin: 100px auto;
+  box-shadow: 0px 0px 10px 2px #93329E;
+}
+hr{
+  color: darkgreen;
+}
